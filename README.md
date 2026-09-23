@@ -26,6 +26,7 @@ A personal portfolio site built with plain HTML, CSS, and JavaScript — no fram
 - 🕹️ A small console easter egg — open devtools and say hi
 
 ## 📁 Project structure
+```
 ├── index.html
 ├── style.css
 ├── script.js
@@ -37,7 +38,7 @@ A personal portfolio site built with plain HTML, CSS, and JavaScript — no fram
 ├── favicon.svg / favicon.ico / favicon-32.png / apple-touch-icon.png
 ├── portfolio-preview.webp
 └── LICENSE
-
+```
 
 ## 🛠️ Running locally
 
